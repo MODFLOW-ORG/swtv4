@@ -1,4 +1,4 @@
-name: swtv4 compiler checks
+name: swtv4 checks
 on:
   # run at 6 AM UTC every day
   schedule:
