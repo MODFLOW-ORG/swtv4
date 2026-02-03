@@ -6,7 +6,7 @@
 #ifndef CCFD_H
 #define CCFD_H
 
-#include "solvers.h"
+#include "SOLVERS.h"
 
 /*
  *  The 7-point cell-centered finite difference

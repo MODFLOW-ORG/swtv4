@@ -17,7 +17,7 @@
 #define MF2KGMG_BIGH       mf2kgmg_bigh_
 #endif
 
-#include "ccfd.h"
+#include "CCFD.h"
 
 
 /* Static global variables for CCFD problem. */
