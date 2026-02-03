@@ -3,7 +3,7 @@
  * Date  : August, 2004
  */
 
-#include "mf2kgmg.h"
+#include "MF2KGMG.h"
 
 /*
  * MODFLOW-2000 C-INTERFACE:

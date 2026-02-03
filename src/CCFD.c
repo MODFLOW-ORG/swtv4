@@ -3,7 +3,7 @@
  * Date:   August, 2004
  */
 
-#include "ccfd.h"
+#include "CCFD.h"
 
 /*
  *  The 7-point cell-centered finite difference
